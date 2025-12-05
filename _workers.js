@@ -475,8 +475,11 @@ async function updateAllIPs(env) {
     'https://api.uouin.com/cloudflare.html',
     'https://addressesapi.090227.xyz/CloudFlareYes',
     'https://addressesapi.090227.xyz/ip.164746.xyz',
-    'https://www.wetest.vip/page/cloudflare/address_v4.html'
+    'https://www.wetest.vip/page/cloudflare/address_v4.html',
+    'https://zip.cm.edu.kg/all.txt'
   ];
+
+  // ... (后面的代码保持不变)
 
   // 加载自定义数据源
   try {
