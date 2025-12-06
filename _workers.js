@@ -603,7 +603,7 @@ async function testIPSpeed(ip) {
 
     const testUrl = `https://` + hexIP + `.nip.lfree.org/`;
     const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 4000); // 整体超时
+    const timeoutId = setTimeout(() => controller.abort(), 8000); // 整体超时从4秒延长到8秒
 
     // 第一次请求，用于建立连接并获取colo
     const warmupResponse = await fetch(testUrl, {
