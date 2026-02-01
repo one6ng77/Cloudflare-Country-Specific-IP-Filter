@@ -362,7 +362,7 @@ class="flex items-center gap-3 px-4 py-2 rounded-2xl bg-gradient-to-r from-gray-
                         
                         <div id="linkMenu" class="link-menu absolute top-full left-1/2 w-48 pt-4 z-50">
                             <div class="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-600 rounded-xl shadow-2xl p-2 flex flex-col gap-2 ring-1 ring-black/5">
-                                <div class="text-[10px] text-center text-slate-400 font-bold uppercase tracking-wider py-1">选择 API 使用项目</div>
+                                <div class="text-[10px] text-center text-slate-400 font-bold uppercase tracking-wider py-1">选择使用 API 项目</div>
                                 <button onclick="generateLink('CFnew')" class="btn-matrix h-10 text-xs flex items-center justify-center gap-2 w-full">
                                     <span>CFnew</span>
                                 </button>
