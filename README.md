@@ -2,5 +2,7 @@
 
 <div align="center" style="margin-bottom: 20px;">
 
-<img src="[pic1.png](https://github.com/alienwaregf/Cloudflare-Country-Specific-IP-Filter/blob/main/Image/Light.png?raw=true)">
-<img src="[pic2.png](https://github.com/alienwaregf/Cloudflare-Country-Specific-IP-Filter/blob/main/Image/Dark.png?raw=true)">
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github.com/alienwaregf/Cloudflare-Country-Specific-IP-Filter/blob/main/Image/Light.png?raw=true" width="45%">
+  <img src="https://github.com/alienwaregf/Cloudflare-Country-Specific-IP-Filter/blob/main/Image/Dark.png?raw=true" width="45%">
+</div>
